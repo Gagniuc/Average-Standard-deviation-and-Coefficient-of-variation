@@ -1,6 +1,6 @@
 # Average, standard deviation and coefficient of variation
 
-Ex. (195) - Average, standard deviation and coefficient of variation, is presented here in three programming languages: Python, MATLAB, and JavaScript. Although the implementations differ in syntax, the underlying concept remains identical across all three versions. Each code sample is reproduced from its respective volume of the series <i>Coding Examples from Simple to Complex</i> (Springer, 2024).
+Ex. (195) - <i>Average, standard deviation and coefficient of variation</i>, is presented here in three programming languages: Python, MATLAB, and JavaScript. Although the implementations differ in syntax, the underlying concept remains identical across all three versions. Each code sample is reproduced from its respective volume of the series <i>Coding Examples from Simple to Complex</i> (Springer, 2024).
 ***
 
 The above example performs statistical calculations on an array <i>a</i> and then calls the <i>stat</i> function with the array. The code starts by defining an array <i>a</i> with a list of numerical values. Then, the code initializes a variable <i>b</i> to 0 and another variable <i>e</i> to 0. Additionally, it creates an array <i>r</i> with three elements for storing statistical results, namely for the average (AV; mathematically denoted as <i>x̄</i>), standard deviation (SD; mathematically denoted as <i>σ</i>), and the coefficient of variation (CV; mathematically denoted as <i>C<sub>v</sub></i>).
